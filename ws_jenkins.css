@@ -1,3 +1,4 @@
 #main-table {
-   background-image : url('https://raw.github.com/SuperFamousGuy/ws_jenkins_theme/master/Wellspring-Worldwide-Logo-small.png') !important;
+   background-image: url("https://raw.github.com/SuperFamousGuy/ws_jenkins_theme/master/Wellspring-Worldwide-Logo-small.png") !important;
+   background-position: right bottom !important;
 }
